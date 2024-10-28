@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ktthuchanh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|d:\\ktthuchanh\\ktthuchanh\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|solutionrelative:ktthuchanh\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|d:\\ktthuchanh\\ktthuchanh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|solutionrelative:ktthuchanh\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|d:\\ktthuchanh\\ktthuchanh\\models\\qlxemaycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|solutionrelative:ktthuchanh\\models\\qlxemaycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|d:\\ktthuchanh\\ktthuchanh\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|solutionrelative:ktthuchanh\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|d:\\ktthuchanh\\ktthuchanh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|solutionrelative:ktthuchanh\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|d:\\ktthuchanh\\ktthuchanh\\areas\\admin\\views\\homeadmincontroler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|solutionrelative:ktthuchanh\\areas\\admin\\views\\homeadmincontroler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|d:\\ktthuchanh\\ktthuchanh\\areas\\admin\\controllers\\homeadmincontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|solutionrelative:ktthuchanh\\areas\\admin\\controllers\\homeadmincontroler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|d:\\ktthuchanh\\ktthuchanh\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|solutionrelative:ktthuchanh\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|d:\\ktthuchanh\\ktthuchanh\\areas\\admin\\views\\homeadmincontroler\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|solutionrelative:ktthuchanh\\areas\\admin\\views\\homeadmincontroler\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|d:\\ktthuchanh\\ktthuchanh\\views\\home\\chitietxe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|solutionrelative:ktthuchanh\\views\\home\\chitietxe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|d:\\ktthuchanh\\ktthuchanh\\wwwroot\\adminlayout\\pages\\ui-features\\buttons.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|solutionrelative:ktthuchanh\\wwwroot\\adminlayout\\pages\\ui-features\\buttons.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|d:\\ktthuchanh\\ktthuchanh\\areas\\admin\\views\\homeadmincontroler\\themsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|solutionrelative:ktthuchanh\\areas\\admin\\views\\homeadmincontroler\\themsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|d:\\ktthuchanh\\ktthuchanh\\areas\\admin\\views\\homeadmincontroler\\suasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|solutionrelative:ktthuchanh\\areas\\admin\\views\\homeadmincontroler\\suasanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|d:\\ktthuchanh\\ktthuchanh\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|solutionrelative:ktthuchanh\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|d:\\ktthuchanh\\ktthuchanh\\views\\shared\\_oganilayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|solutionrelative:ktthuchanh\\views\\shared\\_oganilayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|d:\\ktthuchanh\\ktthuchanh\\views\\home\\xetheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|solutionrelative:ktthuchanh\\views\\home\\xetheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|d:\\ktthuchanh\\ktthuchanh\\models\\xemay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE9B8665-F38F-4FCD-9F65-6253585973D4}|ktthuchanh\\ktthuchanh.csproj|solutionrelative:ktthuchanh\\models\\xemay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "buttons.html",
+              "DocumentMoniker": "D:\\ktthuchanh\\ktthuchanh\\wwwroot\\AdminLayout\\pages\\ui-features\\buttons.html",
+              "RelativeDocumentMoniker": "ktthuchanh\\wwwroot\\AdminLayout\\pages\\ui-features\\buttons.html",
+              "ToolTip": "D:\\ktthuchanh\\ktthuchanh\\wwwroot\\AdminLayout\\pages\\ui-features\\buttons.html",
+              "RelativeToolTip": "ktthuchanh\\wwwroot\\AdminLayout\\pages\\ui-features\\buttons.html",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-28T15:24:49.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SuaSanPham.cshtml",
+              "DocumentMoniker": "D:\\ktthuchanh\\ktthuchanh\\Areas\\Admin\\Views\\HomeAdminControler\\SuaSanPham.cshtml",
+              "RelativeDocumentMoniker": "ktthuchanh\\Areas\\Admin\\Views\\HomeAdminControler\\SuaSanPham.cshtml",
+              "ToolTip": "D:\\ktthuchanh\\ktthuchanh\\Areas\\Admin\\Views\\HomeAdminControler\\SuaSanPham.cshtml",
+              "RelativeToolTip": "ktthuchanh\\Areas\\Admin\\Views\\HomeAdminControler\\SuaSanPham.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T14:52:54.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ThemSanPham.cshtml",
+              "DocumentMoniker": "D:\\ktthuchanh\\ktthuchanh\\Areas\\Admin\\Views\\HomeAdminControler\\ThemSanPham.cshtml",
+              "RelativeDocumentMoniker": "ktthuchanh\\Areas\\Admin\\Views\\HomeAdminControler\\ThemSanPham.cshtml",
+              "ToolTip": "D:\\ktthuchanh\\ktthuchanh\\Areas\\Admin\\Views\\HomeAdminControler\\ThemSanPham.cshtml",
+              "RelativeToolTip": "ktthuchanh\\Areas\\Admin\\Views\\HomeAdminControler\\ThemSanPham.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T14:42:41.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DanhMucSanPham.cshtml",
+              "DocumentMoniker": "D:\\ktthuchanh\\ktthuchanh\\Areas\\Admin\\Views\\HomeAdminControler\\DanhMucSanPham.cshtml",
+              "RelativeDocumentMoniker": "ktthuchanh\\Areas\\Admin\\Views\\HomeAdminControler\\DanhMucSanPham.cshtml",
+              "ToolTip": "D:\\ktthuchanh\\ktthuchanh\\Areas\\Admin\\Views\\HomeAdminControler\\DanhMucSanPham.cshtml",
+              "RelativeToolTip": "ktthuchanh\\Areas\\Admin\\Views\\HomeAdminControler\\DanhMucSanPham.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T14:31:42.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ktthuchanh\\ktthuchanh\\Areas\\Admin\\Views\\HomeAdminControler\\Index.cshtml",
+              "RelativeDocumentMoniker": "ktthuchanh\\Areas\\Admin\\Views\\HomeAdminControler\\Index.cshtml",
+              "ToolTip": "D:\\ktthuchanh\\ktthuchanh\\Areas\\Admin\\Views\\HomeAdminControler\\Index.cshtml",
+              "RelativeToolTip": "ktthuchanh\\Areas\\Admin\\Views\\HomeAdminControler\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T14:18:50.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeAdminControler.cs",
+              "DocumentMoniker": "D:\\ktthuchanh\\ktthuchanh\\Areas\\Admin\\Controllers\\HomeAdminControler.cs",
+              "RelativeDocumentMoniker": "ktthuchanh\\Areas\\Admin\\Controllers\\HomeAdminControler.cs",
+              "ToolTip": "D:\\ktthuchanh\\ktthuchanh\\Areas\\Admin\\Controllers\\HomeAdminControler.cs",
+              "RelativeToolTip": "ktthuchanh\\Areas\\Admin\\Controllers\\HomeAdminControler.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAqwFMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:15:57.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "D:\\ktthuchanh\\ktthuchanh\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "ktthuchanh\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "D:\\ktthuchanh\\ktthuchanh\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "ktthuchanh\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAAwMAAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T14:11:35.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\ktthuchanh\\ktthuchanh\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ktthuchanh\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\ktthuchanh\\ktthuchanh\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ktthuchanh\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-28T14:10:41.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChiTietXe.cshtml",
+              "DocumentMoniker": "D:\\ktthuchanh\\ktthuchanh\\Views\\Home\\ChiTietXe.cshtml",
+              "RelativeDocumentMoniker": "ktthuchanh\\Views\\Home\\ChiTietXe.cshtml",
+              "ToolTip": "D:\\ktthuchanh\\ktthuchanh\\Views\\Home\\ChiTietXe.cshtml",
+              "RelativeToolTip": "ktthuchanh\\Views\\Home\\ChiTietXe.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T13:36:44.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "XeTheoLoai.cshtml",
+              "DocumentMoniker": "D:\\ktthuchanh\\ktthuchanh\\Views\\Home\\XeTheoLoai.cshtml",
+              "RelativeDocumentMoniker": "ktthuchanh\\Views\\Home\\XeTheoLoai.cshtml",
+              "ToolTip": "D:\\ktthuchanh\\ktthuchanh\\Views\\Home\\XeTheoLoai.cshtml",
+              "RelativeToolTip": "ktthuchanh\\Views\\Home\\XeTheoLoai.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T13:20:16.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_OganiLayout.cshtml",
+              "DocumentMoniker": "D:\\ktthuchanh\\ktthuchanh\\Views\\Shared\\_OganiLayout.cshtml",
+              "RelativeDocumentMoniker": "ktthuchanh\\Views\\Shared\\_OganiLayout.cshtml",
+              "ToolTip": "D:\\ktthuchanh\\ktthuchanh\\Views\\Shared\\_OganiLayout.cshtml",
+              "RelativeToolTip": "ktthuchanh\\Views\\Shared\\_OganiLayout.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAADsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T12:42:11.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\ktthuchanh\\ktthuchanh\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ktthuchanh\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\ktthuchanh\\ktthuchanh\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ktthuchanh\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T12:42:06.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ktthuchanh\\ktthuchanh\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ktthuchanh\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ktthuchanh\\ktthuchanh\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ktthuchanh\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T12:38:41.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Xemay.cs",
+              "DocumentMoniker": "D:\\ktthuchanh\\ktthuchanh\\Models\\Xemay.cs",
+              "RelativeDocumentMoniker": "ktthuchanh\\Models\\Xemay.cs",
+              "ToolTip": "D:\\ktthuchanh\\ktthuchanh\\Models\\Xemay.cs",
+              "RelativeToolTip": "ktthuchanh\\Models\\Xemay.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:38:38.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QlxemayContext.cs",
+              "DocumentMoniker": "D:\\ktthuchanh\\ktthuchanh\\Models\\QlxemayContext.cs",
+              "RelativeDocumentMoniker": "ktthuchanh\\Models\\QlxemayContext.cs",
+              "ToolTip": "D:\\ktthuchanh\\ktthuchanh\\Models\\QlxemayContext.cs",
+              "RelativeToolTip": "ktthuchanh\\Models\\QlxemayContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwBMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:38:36.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\ktthuchanh\\ktthuchanh\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ktthuchanh\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\ktthuchanh\\ktthuchanh\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ktthuchanh\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:38:35.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ktthuchanh\\ktthuchanh\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ktthuchanh\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ktthuchanh\\ktthuchanh\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ktthuchanh\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:38:29.723Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
